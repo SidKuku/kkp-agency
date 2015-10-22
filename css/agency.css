@@ -296,8 +296,8 @@ header .home_carousel .carousel-control.right {
 }
 
 header .intro-text {
-    padding-top: 290px;
-    padding-bottom: 10px
+    padding-top: 580px;
+    padding-bottom: 20px
 }
 
 header .intro-text .intro-lead-in {
@@ -330,7 +330,7 @@ header .intro-text .intro-heading {
         min-height: 600px;
     }
     header .intro-text {
-        padding-top: 480px;
+        padding-top: 580px;
         padding-bottom: 20px
     }
     header .intro-text .intro-lead-in {
