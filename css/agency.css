@@ -224,7 +224,7 @@ fieldset[disabled] .btn-xl.active {
     background-color: #fec503
 }
 .navbar-logo {
-    height: 100px;
+    height: 165px;
     margin-top: -15px;
 }
 @media (min-width:768px) {
@@ -253,11 +253,11 @@ fieldset[disabled] .btn-xl.active {
         font-size: 1.5em
     }
     .navbar-logo {
-        height: 125px;
+        height: 200px;
         margin-top: -45px;
     }
     .navbar-default.navbar-shrink .navbar-logo {
-        height: 100px;
+        height: 200px;
         margin-top: -30px;
     }
 }
@@ -281,13 +281,13 @@ header .home_carousel {
     position: absolute;
     top: 0;
     width: 100%;
-    max-height: 300px;
+    max-height: 600px;
     z-index: -1;
 }
 
 header .home_carousel img {
     width: 100%;
-    min-height: 300px;
+    min-height: 600px;
 }
 
 header .home_carousel .carousel-control.left,
@@ -322,12 +322,12 @@ header .intro-text .intro-heading {
         position: absolute;
         top: 0;
         width: 100%;
-        max-height: 500px;
+        max-height: 600px;
         z-index: -1;
     }
     header .home_carousel img {
         width: 100%;
-        min-height: 500px;
+        min-height: 600px;
     }
     header .intro-text {
         padding-top: 480px;
